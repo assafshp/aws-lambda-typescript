@@ -16,6 +16,7 @@
         "./znk-infra.d.ts"
     ],
     "files": [
-        "function1.ts"
+        "function1.ts",
+        "function2.ts"
     ]
 }
