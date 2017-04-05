@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "function2-executor",
+    "name": "function2",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "zxcgn6b7ae",
+    "module": "function2"
+  }
+}
