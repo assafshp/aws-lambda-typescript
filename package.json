@@ -1,0 +1,21 @@
+{
+  "name": "tmp-func",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -p tsconfig.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "znk-infra": "git+https://github.com/Knowledge-OTP/znk-infra.git#zinkerz/dev"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "0.0.9",
+    "@types/node": "^7.0.12",
+    "aws-sdk": "^2.38.0"
+  },
+  "typings": "typings"
+}

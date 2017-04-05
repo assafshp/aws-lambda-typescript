@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noImplicitAny": false,
+    "allowSyntheticDefaultImports": true,
+    "jsx": "preserve",
+    "allowJs": true,
+    "importHelpers": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true
+  },
+    "include": [
+        "./function1.ts",
+        "./znk-infra.d.ts"
+    ],
+    "files": [
+        "function1.ts"
+    ]
+}
