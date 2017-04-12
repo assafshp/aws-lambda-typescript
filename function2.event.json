@@ -1,0 +1,22 @@
+{
+  "requestContext": {
+    "resourcePath": "/rate",
+    "httpMethod": "GET"
+  }
+}
+
+
+
+
+
+{
+  "requestContext": {
+    "resourcePath": "/rate/{id}",
+    "httpMethod": "GET"
+  },
+  "pathParameters": {
+    "id": 1
+  }
+}
+
+
